@@ -7,4 +7,4 @@
   >
 </a>
 
-<img src="https://raw.githubusercontent.com/zwevg/wwwwwq/main/photo_2026-07-30_13-00-53.jpg" width="400" height="400"
+<img src="https://raw.githubusercontent.com/zwevg/wwwwwq/main/photo_2026-07-30_13-00-53.jpg" width="400" height="400"alt="点击图片访问"></a>
